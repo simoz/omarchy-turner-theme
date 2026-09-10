@@ -8,7 +8,7 @@ A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and t
 
 ## Inspiration
 
-Joseph Mallord William Turner (1775–1851) was a British landscape painter known for his expressive use of light, color, and atmosphere. The collection follows a thread of light, vapor, and movement, alternating between calm waters and turbulent skies. Rain, Steam and Speed opens the sequence, followed by Snow Storm: two visions of steam and weather dissolving solid forms. Quiet harbors, moonlight, and luminous horizons offer pauses between the storms. Smoky blues, warm gold, and soft ivory connect these contrasting moods through a consistent, readable desktop palette.
+Joseph Mallord William Turner (1775–1851) explored light, color, and atmosphere. From Rain, Steam and Speed to Snow Storm, this collection moves between calm and turbulence, inspiring a desktop palette of smoky blues, warm gold, and soft ivory.
 
 ## Installation
 
