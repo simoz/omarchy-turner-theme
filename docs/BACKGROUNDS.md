@@ -1,10 +1,10 @@
-# Ten Turner wallpapers
+# Nine Turner wallpapers
 
-The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling, permanent cropping, or artistic color adjustments. Original aspect ratios are preserved. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 30.4 MiB; the 1280-pixel previews total approximately 2.6 MiB.
+The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling, permanent cropping, or artistic color adjustments. Original aspect ratios are preserved. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 27.3 MiB; the 1280-pixel previews total approximately 2.2 MiB.
 
 **Rain, Steam and Speed** is first in the filename sequence and is the README cover. The theme palette stays fixed when switching paintings. **Staffa**, **Keelmen**, and **The Fighting Temeraire** closely match its smoky blue shadows and gold accents. **Inverary Pier** is the airiest and most luminous alternative.
 
-All ten images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files therefore retain the full composition. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
+All nine images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files therefore retain the full composition. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
 
 The NGA source images are distributed under [Open Access CC0](https://www.nga.gov/terms-and-notices). The other source reproductions are marked as public domain on their respective Commons pages, with sources from the National Gallery or Yale / Google Art Project. This project is not affiliated with the museums. Original downloads are linked below; the JSON catalog records their dimensions and checksums separately from the optimized files.
 
@@ -17,16 +17,6 @@ National Gallery, London.
 [Source and rights](https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg) · [Wallpaper JPEG](../backgrounds/01-rain-steam-and-speed.jpg) · [Full-resolution original](https://upload.wikimedia.org/wikipedia/commons/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ![Rain, Steam and Speed – The Great Western Railway](previews/01-rain-steam-and-speed.jpg)
-
-## 02 · Approach to Venice
-
-1844 · **Wallpaper: 4096 × 2715 px** · Original: 4096 × 2715 px.
-
-Courtesy National Gallery of Art, Washington; Andrew W. Mellon Collection, 1937.1.110.
-
-[Source and rights](https://www.nga.gov/artworks/117-approach-venice) · [Wallpaper JPEG](../backgrounds/02-approach-to-venice.jpg) · [Full-resolution original](https://api.nga.gov/iiif/4f117b4f-4efe-4b2e-88e7-a01975003d95/full/full/0/default.jpg)
-
-![Approach to Venice](previews/02-approach-to-venice.jpg)
 
 ## 03 · Venice: The Dogana and San Giorgio Maggiore
 

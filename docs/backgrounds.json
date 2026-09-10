@@ -21,27 +21,6 @@
     "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
   },
   {
-    "file": "backgrounds/02-approach-to-venice.jpg",
-    "title": "Approach to Venice",
-    "date": "1844",
-    "source": "https://www.nga.gov/artworks/117-approach-venice",
-    "download": "https://api.nga.gov/iiif/4f117b4f-4efe-4b2e-88e7-a01975003d95/full/full/0/default.jpg",
-    "license": "CC0",
-    "credit": "Courtesy National Gallery of Art, Washington; Andrew W. Mellon Collection, 1937.1.110",
-    "width": 4096,
-    "height": 2715,
-    "sha256": "d4109b636e91908c96946da04730c33e1b160cd0204fba02c9e1ce7ab6929bba",
-    "artist": "J. M. W. Turner",
-    "retrieved": "2026-09-10",
-    "original": {
-      "width": 4096,
-      "height": 2715,
-      "sha256": "7e556a21801e6a1f97311b88c86dbf5a0b264a54120c084f537c3180d70b7648"
-    },
-    "preview": "docs/previews/02-approach-to-venice.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
-  },
-  {
     "file": "backgrounds/03-venice-dogana-san-giorgio.jpg",
     "title": "Venice: The Dogana and San Giorgio Maggiore",
     "date": "1834",
