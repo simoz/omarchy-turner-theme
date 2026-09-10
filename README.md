@@ -6,6 +6,10 @@ A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and t
 
 [Browse all ten wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.4 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
+## Inspiration
+
+Joseph Mallord William Turner (1775–1851) was a British landscape painter known for his expressive use of light, color, and atmosphere. The selected paintings explore sunlight, mist, water, and the movement of the natural world. Their luminous skies and deep shadows inspire a palette of smoky blues, warm gold, and soft ivory, bringing a calm, understated atmosphere to the desktop while keeping text clear and readable.
+
 ## Installation
 
 Run this command on your Omarchy machine to install and apply the theme:
