@@ -2,7 +2,7 @@
 
 A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and the colors of water and mist, accompanied by nine high-resolution paintings. The palette is an interpretation for the interface, not an automatic extraction from the paintings.
 
-![Turner theme on Omarchy with a terminal, btop, and Rain, Steam and Speed](preview.png)
+[![Turner theme on Omarchy with an editor, terminal, btop, and file manager](docs/screenshots/hero.webp)](docs/screenshots/hero.webp)
 
 [Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.5 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
@@ -19,6 +19,16 @@ omarchy theme install https://github.com/simoz/omarchy-turner-theme
 ```
 
 To switch back, select your previous theme from Omarchy's theme menu.
+
+## Desktop previews
+
+Click a screenshot to view it at full size.
+
+| Desktop | Terminal |
+| --- | --- |
+| [![Turner desktop with Rain, Steam and Speed](docs/screenshots/desktop.webp)](docs/screenshots/desktop.webp) | [![Transparent terminal with the Turner color palette](docs/screenshots/terminal.webp)](docs/screenshots/terminal.webp) |
+| **Omarchy menu** | **Lock screen** |
+| [![Omarchy menu with gold accents and smoky blue surfaces](docs/screenshots/menu.webp)](docs/screenshots/menu.webp) | [![Turner lock screen with a blurred painting and gold password-field border](docs/screenshots/lock.webp)](docs/screenshots/lock.webp) |
 
 ## Backgrounds
 
