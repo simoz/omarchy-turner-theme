@@ -1,10 +1,10 @@
 # Nine Turner wallpapers
 
-The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling, permanent cropping, or artistic color adjustments. Original aspect ratios are preserved. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 29.0 MiB; the 1280-pixel previews total approximately 2.2 MiB.
+The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling or artistic color adjustments. Original aspect ratios are preserved to pixel rounding. Snow Storm has a centered trim of approximately 1% per edge to remove the dark outer border. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 30.3 MiB; the 1280-pixel previews total approximately 2.2 MiB.
 
 **Rain, Steam and Speed** is first in the filename sequence and is the README cover. **Snow Storm** follows second, pairing rain and steam with a sea swept by snow. The collection alternates between turbulence and stillness: the Venetian view and **Dort** offer quiet harbors, while the storms dissolve ships and horizons into light and vapor. After the opening pair, luminous harbors alternate with darker seas and moonlight, ending with **The Fighting Temeraire** at sunset. The theme palette stays fixed when switching paintings. **Staffa**, **Keelmen**, and **The Fighting Temeraire** closely match its smoky blue shadows and gold accents. **Inverary Pier** is the airiest and most luminous alternative.
 
-All nine images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files therefore retain the full composition. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
+All nine images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files retain the full composition apart from the slight border trim on Snow Storm. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
 
 The NGA source images are distributed under [Open Access CC0](https://www.nga.gov/terms-and-notices). The other source reproductions are marked as public domain on their respective Commons pages, with sources from the National Gallery, Tate Britain, or Yale / Google Art Project. This project is not affiliated with the museums. Original downloads are linked below; the JSON catalog records their dimensions and checksums separately from the optimized files.
 
@@ -20,7 +20,7 @@ National Gallery, London.
 
 ## 02 · Snow Storm – Steam-Boat off a Harbour’s Mouth
 
-1842 · **Wallpaper: 5120 × 3849 px** · Original: 7247 × 5448 px.
+1842 · **Wallpaper: 5018 × 3772 px** · Original: 7247 × 5448 px.
 
 Tate Britain, London; Turner Bequest, 1856.
 

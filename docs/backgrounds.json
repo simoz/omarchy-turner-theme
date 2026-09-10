@@ -25,21 +25,21 @@
     "title": "Snow Storm – Steam-Boat off a Harbour’s Mouth",
     "source": "https://commons.wikimedia.org/wiki/File:J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg",
     "download": "https://upload.wikimedia.org/wikipedia/commons/e/e4/J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg",
-    "width": 5120,
-    "height": 3849,
+    "width": 5018,
+    "height": 3772,
     "license": "Public domain",
     "date": "1842",
     "credit": "Tate Britain, London; Turner Bequest, 1856",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
-    "sha256": "f7480c1e6088afbf5adebe5d53ba5e5b0af44916876b9852a5a84d6ee80608be",
+    "sha256": "d67bba04eeb8fd8564d1852e8706f407b450ff441abdd7f280fb5319088cd7da",
     "original": {
       "width": 7247,
       "height": 5448,
       "sha256": "3b216adbdffced2e17248371b3a4d8333ecf9936a1f3219bb2d227995cbb8b84"
     },
     "preview": "docs/previews/02-snow-storm.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "Resized to 5120 × 3849 px at JPEG quality 70, then centered border trim to 5018 × 3772 px (approximately 1% per edge); saved at JPEG quality 90. No upscaling or artistic color adjustments."
   },
   {
     "file": "backgrounds/03-inverary-pier.jpg",

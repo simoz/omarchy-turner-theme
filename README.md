@@ -4,7 +4,7 @@ A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and t
 
 ![Turner theme on Omarchy with a terminal, btop, and Rain, Steam and Speed](preview.png)
 
-[Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 29.0 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
+[Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.3 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
 ## Inspiration
 
@@ -60,7 +60,7 @@ The theme uses the Omarchy 4 format. Omarchy generates application configuration
 - [Cover artwork source and original download](https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg)
 - [National Gallery of Art Open Access policy](https://www.nga.gov/terms-and-notices)
 
-The two National Gallery of Art JPEGs are available under CC0. The other seven reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without permanent cropping or artistic color adjustments. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
+The two National Gallery of Art JPEGs are available under CC0. The other seven reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without artistic color adjustments; Snow Storm has a slight border trim. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
 
 ## License
 
