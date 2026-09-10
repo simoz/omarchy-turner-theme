@@ -1,0 +1,32 @@
+# Turner — smoke, water and late sunlight. Omarchy 4 palette.
+mode = "dark"
+
+accent = "#d8b56d"
+selection = "#465663"
+muted = "#a6a69a"
+
+background = "#1c252b"
+dark_background = "#171f25"
+darker_background = "#12191e"
+lighter_background = "#303b42"
+
+foreground = "#eee4cd"
+dark_foreground = "#bdb9a9"
+light_foreground = "#f4ecd9"
+bright_foreground = "#fff4dc"
+
+red = "#d58e79"
+yellow = "#e2c47e"
+orange = "#daa16d"
+green = "#adb991"
+cyan = "#9dbfba"
+blue = "#99b4c9"
+magenta = "#b6a0b9"
+brown = "#a68b73"
+
+bright_red = "#edab91"
+bright_yellow = "#f3d997"
+bright_green = "#c4cfa6"
+bright_cyan = "#b6d7ce"
+bright_blue = "#b3cde0"
+bright_magenta = "#d0b8cf"

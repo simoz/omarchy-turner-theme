@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Turner palette: smoky blue, ivory, gold, and muted colors">
+<rect width="960" height="260" fill="#1c252b"/>
+<rect x="20" y="18" width="140" height="62" rx="4" fill="#1c252b" stroke="#465663"/>
+<text x="20" y="100" fill="#eee4cd" font-family="monospace" font-size="12">background</text>
+<text x="20" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#1c252b</text>
+<rect x="176" y="18" width="140" height="62" rx="4" fill="#303b42" stroke="#465663"/>
+<text x="176" y="100" fill="#eee4cd" font-family="monospace" font-size="12">lighter_background</text>
+<text x="176" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#303b42</text>
+<rect x="332" y="18" width="140" height="62" rx="4" fill="#eee4cd" stroke="#465663"/>
+<text x="332" y="100" fill="#eee4cd" font-family="monospace" font-size="12">foreground</text>
+<text x="332" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#eee4cd</text>
+<rect x="488" y="18" width="140" height="62" rx="4" fill="#a6a69a" stroke="#465663"/>
+<text x="488" y="100" fill="#eee4cd" font-family="monospace" font-size="12">muted</text>
+<text x="488" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#a6a69a</text>
+<rect x="644" y="18" width="140" height="62" rx="4" fill="#d8b56d" stroke="#465663"/>
+<text x="644" y="100" fill="#eee4cd" font-family="monospace" font-size="12">accent</text>
+<text x="644" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#d8b56d</text>
+<rect x="800" y="18" width="140" height="62" rx="4" fill="#d58e79" stroke="#465663"/>
+<text x="800" y="100" fill="#eee4cd" font-family="monospace" font-size="12">red</text>
+<text x="800" y="118" fill="#a6a69a" font-family="monospace" font-size="12">#d58e79</text>
+<rect x="20" y="140" width="140" height="62" rx="4" fill="#daa16d" stroke="#465663"/>
+<text x="20" y="222" fill="#eee4cd" font-family="monospace" font-size="12">orange</text>
+<text x="20" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#daa16d</text>
+<rect x="176" y="140" width="140" height="62" rx="4" fill="#adb991" stroke="#465663"/>
+<text x="176" y="222" fill="#eee4cd" font-family="monospace" font-size="12">green</text>
+<text x="176" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#adb991</text>
+<rect x="332" y="140" width="140" height="62" rx="4" fill="#9dbfba" stroke="#465663"/>
+<text x="332" y="222" fill="#eee4cd" font-family="monospace" font-size="12">cyan</text>
+<text x="332" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#9dbfba</text>
+<rect x="488" y="140" width="140" height="62" rx="4" fill="#99b4c9" stroke="#465663"/>
+<text x="488" y="222" fill="#eee4cd" font-family="monospace" font-size="12">blue</text>
+<text x="488" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#99b4c9</text>
+<rect x="644" y="140" width="140" height="62" rx="4" fill="#b6a0b9" stroke="#465663"/>
+<text x="644" y="222" fill="#eee4cd" font-family="monospace" font-size="12">magenta</text>
+<text x="644" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#b6a0b9</text>
+<rect x="800" y="140" width="140" height="62" rx="4" fill="#465663" stroke="#465663"/>
+<text x="800" y="222" fill="#eee4cd" font-family="monospace" font-size="12">selection</text>
+<text x="800" y="240" fill="#a6a69a" font-family="monospace" font-size="12">#465663</text>
+</svg>

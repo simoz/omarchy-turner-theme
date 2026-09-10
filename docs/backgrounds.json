@@ -1,0 +1,212 @@
+[
+  {
+    "file": "backgrounds/01-rain-steam-and-speed.jpg",
+    "title": "Rain, Steam and Speed – The Great Western Railway",
+    "source": "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3822,
+    "license": "Public domain",
+    "date": "1844",
+    "credit": "National Gallery, London",
+    "sha256": "7480f302b3efd4590bfc6a7fca49b594cd6b9fa6f25730d7c1d8a8406fb17d44",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 5661,
+      "height": 4226,
+      "sha256": "b391ff3e06a23557c8afd006691236ab1d68d2a4357d9b0944bb97d2389fda85"
+    },
+    "preview": "docs/previews/01-rain-steam-and-speed.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/02-approach-to-venice.jpg",
+    "title": "Approach to Venice",
+    "date": "1844",
+    "source": "https://www.nga.gov/artworks/117-approach-venice",
+    "download": "https://api.nga.gov/iiif/4f117b4f-4efe-4b2e-88e7-a01975003d95/full/full/0/default.jpg",
+    "license": "CC0",
+    "credit": "Courtesy National Gallery of Art, Washington; Andrew W. Mellon Collection, 1937.1.110",
+    "width": 4096,
+    "height": 2715,
+    "sha256": "d4109b636e91908c96946da04730c33e1b160cd0204fba02c9e1ce7ab6929bba",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 4096,
+      "height": 2715,
+      "sha256": "7e556a21801e6a1f97311b88c86dbf5a0b264a54120c084f537c3180d70b7648"
+    },
+    "preview": "docs/previews/02-approach-to-venice.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/03-venice-dogana-san-giorgio.jpg",
+    "title": "Venice: The Dogana and San Giorgio Maggiore",
+    "date": "1834",
+    "source": "https://www.nga.gov/artworks/1224-venice-dogana-and-san-giorgio-maggiore",
+    "download": "https://api.nga.gov/iiif/e69c25bb-f772-4ac2-966f-2954eb420a84/full/full/0/default.jpg",
+    "license": "CC0",
+    "credit": "Courtesy National Gallery of Art, Washington; Widener Collection, 1942.9.85",
+    "width": 4096,
+    "height": 3035,
+    "sha256": "687be93c2fe62e84a5ee6d29e8555043b35cde3a512845be7db64e02c20242be",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 4096,
+      "height": 3035,
+      "sha256": "fa90892369e960748bd4ffd539bf0a1af7f1f42b389258945c9732ca16758b84"
+    },
+    "preview": "docs/previews/03-venice-dogana-san-giorgio.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/04-dogana-santa-maria-della-salute.jpg",
+    "title": "The Dogana and Santa Maria della Salute, Venice",
+    "date": "1843",
+    "source": "https://www.nga.gov/artworks/46089-dogana-and-santa-maria-della-salute-venice",
+    "download": "https://api.nga.gov/iiif/132e789c-27da-4f54-a68d-3e2b691a9448/full/full/0/default.jpg",
+    "license": "CC0",
+    "credit": "Courtesy National Gallery of Art, Washington; Samuel H. Kress Collection, 1961.2.3",
+    "width": 4096,
+    "height": 2714,
+    "sha256": "66628d4ef58c444e03ea76c3d1b1a6acded99275f80f1d9917c1f8d02b2c1a5f",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 4096,
+      "height": 2714,
+      "sha256": "f858873cc32e82d4d31a70de3f910cc7c961c856e1d5e013a2be4a0cf3a37085"
+    },
+    "preview": "docs/previews/04-dogana-santa-maria-della-salute.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/05-keelmen-by-moonlight.jpg",
+    "title": "Keelmen Heaving in Coals by Moonlight",
+    "date": "1835",
+    "source": "https://www.nga.gov/artworks/1225-keelmen-heaving-coals-moonlight",
+    "download": "https://api.nga.gov/iiif/c1e33e8d-ffe4-4d20-a267-87ffcf94f7ce/full/full/0/default.jpg",
+    "license": "CC0",
+    "credit": "Courtesy National Gallery of Art, Washington; Widener Collection, 1942.9.86",
+    "width": 4096,
+    "height": 3042,
+    "sha256": "1029beb5fde8b986c71c2adaea8e3b7920f08b03560fbad956284fbd464299a2",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 4096,
+      "height": 3042,
+      "sha256": "823a35a3e56b3396f3483e1177d2585ea5ed443a8a6fd7004becd29b0a3c2828"
+    },
+    "preview": "docs/previews/05-keelmen-by-moonlight.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/06-the-fighting-temeraire.jpg",
+    "title": "The Fighting Temeraire",
+    "source": "https://commons.wikimedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/94/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3801,
+    "license": "Public domain",
+    "date": "1839",
+    "credit": "National Gallery, London",
+    "sha256": "73aefb45a2792e7d2e3d039fe1ba8b5f9aceeebe0edd781b3606553a1956c786",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 6000,
+      "height": 4455,
+      "sha256": "c2d93bced825a2b6bce93701281309cc07b95eaf946780c330e48fd2e0d05ca2"
+    },
+    "preview": "docs/previews/06-the-fighting-temeraire.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/07-staffa-fingals-cave.jpg",
+    "title": "Staffa, Fingal’s Cave",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Staffa,_Fingal%27s_Cave_-_Google_Art_Project.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Mallord_William_Turner_-_Staffa%2C_Fingal%27s_Cave_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3786,
+    "license": "Public domain",
+    "date": "1831–1832",
+    "credit": "Yale Center for British Art, Paul Mellon Collection",
+    "sha256": "a6129d8413077cbbc061673ac377c1b7446d43c26c070ec073a3ca9e4e170cc1",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 5259,
+      "height": 3889,
+      "sha256": "007ecf73af50e0bcf06f091440d421dd5be23152cf0b0e306fd0634fa543e34b"
+    },
+    "preview": "docs/previews/07-staffa-fingals-cave.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/08-dort-or-dordrecht.jpg",
+    "title": "Dort or Dordrecht: The Dort Packet-Boat from Rotterdam Becalmed",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Dort_or_Dordrecht-_The_Dort_Packet-Boat_from_Rotterdam_Becalmed_-_Google_Art_Project.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Joseph_Mallord_William_Turner_-_Dort_or_Dordrecht-_The_Dort_Packet-Boat_from_Rotterdam_Becalmed_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3424,
+    "license": "Public domain",
+    "date": "1818",
+    "credit": "Yale Center for British Art, Paul Mellon Collection",
+    "sha256": "057452125e0296dfa497deca78053b7c09fc16b4e4916d9a440090ed3cc684bb",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 8377,
+      "height": 5603,
+      "sha256": "b4f38137a8b91cbb4d4e7df27fe545b890d2dd5e1c29924570078082e85662ec"
+    },
+    "preview": "docs/previews/08-dort-or-dordrecht.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/09-inverary-pier.jpg",
+    "title": "Inverary Pier, Loch Fyne: Morning",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Inverary_Pier,_Loch_Fyne-_Morning_-_Google_Art_Project.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Joseph_Mallord_William_Turner_-_Inverary_Pier%2C_Loch_Fyne-_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3853,
+    "license": "Public domain",
+    "date": "c. 1845",
+    "credit": "Yale Center for British Art, Paul Mellon Collection",
+    "sha256": "700ea2e8bc018a4df6af8c5aa1f3cd8035f12ab70f90c92a2a45161d53776671",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 5630,
+      "height": 4237,
+      "sha256": "8560aaca669136bd3ce1a1b66d3919cf211a39a4158f200d7bced84b19510e69"
+    },
+    "preview": "docs/previews/09-inverary-pier.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  },
+  {
+    "file": "backgrounds/10-wreckers-northumberland.jpg",
+    "title": "Wreckers – Coast of Northumberland, with a Steam-Boat Assisting a Ship off Shore",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Wreckers_--_Coast_of_Northumberland,_with_a_Steam-Boat_Assisting_a_Ship_off_Shore_-_Google_Art_Project.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/5/58/Joseph_Mallord_William_Turner_-_Wreckers_--_Coast_of_Northumberland%2C_with_a_Steam-Boat_Assisting_a_Ship_off_Shore_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 5120,
+    "height": 3787,
+    "license": "Public domain",
+    "date": "1834",
+    "credit": "Yale Center for British Art, Paul Mellon Collection",
+    "sha256": "dfb92ee04edd98133cfa00c525f6a236fa989e34f0d6173bd57c79d8c09595be",
+    "artist": "J. M. W. Turner",
+    "retrieved": "2026-09-10",
+    "original": {
+      "width": 5489,
+      "height": 4060,
+      "sha256": "46d03154e52419280ab66502c5bf9cdbec69bbf16d1f809536b33c5529d64573"
+    },
+    "preview": "docs/previews/10-wreckers-northumberland.jpg",
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+  }
+]
