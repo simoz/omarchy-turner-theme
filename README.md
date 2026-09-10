@@ -49,3 +49,9 @@ The theme uses the Omarchy 4 format. Omarchy generates application configuration
 - [National Gallery of Art Open Access policy](https://www.nga.gov/terms-and-notices)
 
 The four National Gallery of Art JPEGs are available under CC0. The other six reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without permanent cropping or artistic color adjustments. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
+
+## License
+
+The theme's original configuration, scripts, and documentation are licensed under the [MIT License](LICENSE).
+
+Painting reproductions in `backgrounds/` and `docs/previews/` retain their public-domain or CC0 status and are not covered by this MIT license. See [painting credits and sources](docs/BACKGROUNDS.md) for details.
