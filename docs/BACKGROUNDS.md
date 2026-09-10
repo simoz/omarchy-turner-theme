@@ -1,12 +1,12 @@
-# Nine Turner wallpapers
+# Ten Turner wallpapers
 
-The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling, permanent cropping, or artistic color adjustments. Original aspect ratios are preserved. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 27.3 MiB; the 1280-pixel previews total approximately 2.2 MiB.
+The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling, permanent cropping, or artistic color adjustments. Original aspect ratios are preserved. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 32.0 MiB; the 1280-pixel previews total approximately 2.5 MiB.
 
-**Rain, Steam and Speed** is first in the filename sequence and is the README cover. The theme palette stays fixed when switching paintings. **Staffa**, **Keelmen**, and **The Fighting Temeraire** closely match its smoky blue shadows and gold accents. **Inverary Pier** is the airiest and most luminous alternative.
+**Rain, Steam and Speed** is first in the filename sequence and is the README cover. **Snow Storm** follows second, pairing rain and steam with a sea swept by snow. The collection alternates between turbulence and stillness: the Venetian views and **Dort** offer quiet harbors, while the storms dissolve ships and horizons into light and vapor. The theme palette stays fixed when switching paintings. **Staffa**, **Keelmen**, and **The Fighting Temeraire** closely match its smoky blue shadows and gold accents. **Inverary Pier** is the airiest and most luminous alternative.
 
-All nine images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files therefore retain the full composition. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
+All ten images support a 3840 × 2160 crop without upscaling. A centered 16:9 crop was visually reviewed: the main subjects remain visible, but approximately 15–25% of the painting's height is lost, including details near the edges. The distributed files therefore retain the full composition. Actual display and cropping depend on your wallpaper settings; ultrawide screens crop more. Appearance in a live Omarchy session has not been verified.
 
-The NGA source images are distributed under [Open Access CC0](https://www.nga.gov/terms-and-notices). The other source reproductions are marked as public domain on their respective Commons pages, with sources from the National Gallery or Yale / Google Art Project. This project is not affiliated with the museums. Original downloads are linked below; the JSON catalog records their dimensions and checksums separately from the optimized files.
+The NGA source images are distributed under [Open Access CC0](https://www.nga.gov/terms-and-notices). The other source reproductions are marked as public domain on their respective Commons pages, with sources from the National Gallery, Tate Britain, or Yale / Google Art Project. This project is not affiliated with the museums. Original downloads are linked below; the JSON catalog records their dimensions and checksums separately from the optimized files.
 
 ## 01 · Rain, Steam and Speed – The Great Western Railway
 
@@ -17,6 +17,16 @@ National Gallery, London.
 [Source and rights](https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg) · [Wallpaper JPEG](../backgrounds/01-rain-steam-and-speed.jpg) · [Full-resolution original](https://upload.wikimedia.org/wikipedia/commons/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ![Rain, Steam and Speed – The Great Western Railway](previews/01-rain-steam-and-speed.jpg)
+
+## 02 · Snow Storm – Steam-Boat off a Harbour’s Mouth
+
+1842 · **Wallpaper: 5120 × 3849 px** · Original: 7247 × 5448 px.
+
+Tate Britain, London; Turner Bequest, 1856.
+
+[Source and rights](https://commons.wikimedia.org/wiki/File:J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg) · [Wallpaper JPEG](../backgrounds/02-snow-storm.jpg) · [Full-resolution original](https://upload.wikimedia.org/wikipedia/commons/e/e4/J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg)
+
+![Snow Storm – Steam-Boat off a Harbour’s Mouth](previews/02-snow-storm.jpg)
 
 ## 03 · Venice: The Dogana and San Giorgio Maggiore
 

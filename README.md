@@ -1,14 +1,14 @@
 # Turner · Omarchy 4
 
-A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and the colors of water and mist, accompanied by nine high-resolution paintings. The palette is an interpretation for the interface, not an automatic extraction from the paintings.
+A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and the colors of water and mist, accompanied by ten high-resolution paintings. The palette is an interpretation for the interface, not an automatic extraction from the paintings.
 
 ![Turner theme on Omarchy with a terminal, btop, and Rain, Steam and Speed](preview.png)
 
-[Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 27.3 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
+[Browse all ten wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 32.0 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
 ## Inspiration
 
-Joseph Mallord William Turner (1775–1851) was a British landscape painter known for his expressive use of light, color, and atmosphere. The selected paintings explore sunlight, mist, water, and the movement of the natural world. Their luminous skies and deep shadows inspire a palette of smoky blues, warm gold, and soft ivory, bringing a calm, understated atmosphere to the desktop while keeping text clear and readable.
+Joseph Mallord William Turner (1775–1851) was a British landscape painter known for his expressive use of light, color, and atmosphere. The collection follows a thread of light, vapor, and movement, alternating between calm waters and turbulent skies. Rain, Steam and Speed opens the sequence, followed by Snow Storm: two visions of steam and weather dissolving solid forms. Quiet harbors, moonlight, and luminous horizons offer pauses between the storms. Smoky blues, warm gold, and soft ivory connect these contrasting moods through a consistent, readable desktop palette.
 
 ## Installation
 
@@ -50,7 +50,7 @@ The theme uses the Omarchy 4 format. Omarchy generates application configuration
 - [Cover artwork source and original download](https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg)
 - [National Gallery of Art Open Access policy](https://www.nga.gov/terms-and-notices)
 
-The three National Gallery of Art JPEGs are available under CC0. The other six reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without permanent cropping or artistic color adjustments. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
+The three National Gallery of Art JPEGs are available under CC0. The other seven reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without permanent cropping or artistic color adjustments. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
 
 ## License
 
