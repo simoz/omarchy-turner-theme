@@ -9,7 +9,7 @@
     "license": "Public domain",
     "date": "1844",
     "credit": "National Gallery, London",
-    "sha256": "7480f302b3efd4590bfc6a7fca49b594cd6b9fa6f25730d7c1d8a8406fb17d44",
+    "sha256": "a44d425cd32ccacc81278563136f06778be63a6b7a3cf5bf5d0a3a57067ea6f7",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -18,7 +18,7 @@
       "sha256": "b391ff3e06a23557c8afd006691236ab1d68d2a4357d9b0944bb97d2389fda85"
     },
     "preview": "docs/previews/01-rain-steam-and-speed.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/02-snow-storm.jpg",
@@ -32,14 +32,14 @@
     "credit": "Tate Britain, London; Turner Bequest, 1856",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
-    "sha256": "d67bba04eeb8fd8564d1852e8706f407b450ff441abdd7f280fb5319088cd7da",
+    "sha256": "b5ec642db9a26a22ad70e34ce9934a817f65aa6c6a5f68467f6e38a8b78dc176",
     "original": {
       "width": 7247,
       "height": 5448,
       "sha256": "3b216adbdffced2e17248371b3a4d8333ecf9936a1f3219bb2d227995cbb8b84"
     },
     "preview": "docs/previews/02-snow-storm.jpg",
-    "processing": "Resized to 5120 × 3849 px at JPEG quality 70, then centered border trim to 5018 × 3772 px (approximately 1% per edge); saved at JPEG quality 90. No upscaling or artistic color adjustments."
+    "processing": "Resized to 5120 × 3849 px at JPEG quality 70, then centered border trim to 5018 × 3772 px (approximately 1% per edge); saved at JPEG quality 90. No upscaling or artistic color adjustments. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/03-inverary-pier.jpg",
@@ -51,7 +51,7 @@
     "license": "Public domain",
     "date": "c. 1845",
     "credit": "Yale Center for British Art, Paul Mellon Collection",
-    "sha256": "700ea2e8bc018a4df6af8c5aa1f3cd8035f12ab70f90c92a2a45161d53776671",
+    "sha256": "a462a81fc846ed69cc1ce1a1fa968ece94169d1ba7ade3ec38822f7aaa4b82d9",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -60,7 +60,7 @@
       "sha256": "8560aaca669136bd3ce1a1b66d3919cf211a39a4158f200d7bced84b19510e69"
     },
     "preview": "docs/previews/03-inverary-pier.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/04-staffa-fingals-cave.jpg",
@@ -72,7 +72,7 @@
     "license": "Public domain",
     "date": "1831–1832",
     "credit": "Yale Center for British Art, Paul Mellon Collection",
-    "sha256": "a6129d8413077cbbc061673ac377c1b7446d43c26c070ec073a3ca9e4e170cc1",
+    "sha256": "4e9014344c58f1352074dd05952108cfb5f54caa04c66d0aefbb0670c2d1f918",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -81,7 +81,7 @@
       "sha256": "007ecf73af50e0bcf06f091440d421dd5be23152cf0b0e306fd0634fa543e34b"
     },
     "preview": "docs/previews/04-staffa-fingals-cave.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/05-dogana-santa-maria-della-salute.jpg",
@@ -93,7 +93,7 @@
     "credit": "Courtesy National Gallery of Art, Washington; Samuel H. Kress Collection, 1961.2.3",
     "width": 4096,
     "height": 2714,
-    "sha256": "66628d4ef58c444e03ea76c3d1b1a6acded99275f80f1d9917c1f8d02b2c1a5f",
+    "sha256": "1cd436ce7cbe4252146c08c6e2c394ef79862d27dde8ad3f9748a3c3a53fb8f3",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -102,7 +102,7 @@
       "sha256": "f858873cc32e82d4d31a70de3f910cc7c961c856e1d5e013a2be4a0cf3a37085"
     },
     "preview": "docs/previews/05-dogana-santa-maria-della-salute.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/06-keelmen-by-moonlight.jpg",
@@ -114,7 +114,7 @@
     "credit": "Courtesy National Gallery of Art, Washington; Widener Collection, 1942.9.86",
     "width": 4096,
     "height": 3042,
-    "sha256": "1029beb5fde8b986c71c2adaea8e3b7920f08b03560fbad956284fbd464299a2",
+    "sha256": "57bdf236221eef524c39f89158515b969f009774daf63e5473f114bc38a1fe51",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -123,7 +123,7 @@
       "sha256": "823a35a3e56b3396f3483e1177d2585ea5ed443a8a6fd7004becd29b0a3c2828"
     },
     "preview": "docs/previews/06-keelmen-by-moonlight.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/07-dort-or-dordrecht.jpg",
@@ -135,7 +135,7 @@
     "license": "Public domain",
     "date": "1818",
     "credit": "Yale Center for British Art, Paul Mellon Collection",
-    "sha256": "057452125e0296dfa497deca78053b7c09fc16b4e4916d9a440090ed3cc684bb",
+    "sha256": "b69509cbae3db433d3df149524b726e5a153e73a13f593a85a094c955f323300",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -144,7 +144,7 @@
       "sha256": "b4f38137a8b91cbb4d4e7df27fe545b890d2dd5e1c29924570078082e85662ec"
     },
     "preview": "docs/previews/07-dort-or-dordrecht.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/08-wreckers-northumberland.jpg",
@@ -156,7 +156,7 @@
     "license": "Public domain",
     "date": "1834",
     "credit": "Yale Center for British Art, Paul Mellon Collection",
-    "sha256": "dfb92ee04edd98133cfa00c525f6a236fa989e34f0d6173bd57c79d8c09595be",
+    "sha256": "3eba75206bbd595e553a9a0110ac68ce5f3f1a88a6bd6119629f3fa13ab70a4d",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -165,7 +165,7 @@
       "sha256": "46d03154e52419280ab66502c5bf9cdbec69bbf16d1f809536b33c5529d64573"
     },
     "preview": "docs/previews/08-wreckers-northumberland.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/09-the-fighting-temeraire.jpg",
@@ -177,7 +177,7 @@
     "license": "Public domain",
     "date": "1839",
     "credit": "National Gallery, London",
-    "sha256": "73aefb45a2792e7d2e3d039fe1ba8b5f9aceeebe0edd781b3606553a1956c786",
+    "sha256": "0c3b65a8096b3152a10a6109c756d08abc3dc3cd92d9c7e0d8a239d9b930ddf6",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -186,6 +186,6 @@
       "sha256": "c2d93bced825a2b6bce93701281309cc07b95eaf946780c330e48fd2e0d05ca2"
     },
     "preview": "docs/previews/09-the-fighting-temeraire.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   }
 ]
