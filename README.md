@@ -2,9 +2,9 @@
 
 A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and the colors of water and mist, accompanied by ten high-resolution paintings. The palette is an interpretation for the interface, not an automatic extraction from the paintings.
 
-![Rain, Steam and Speed – The Great Western Railway, J. M. W. Turner](docs/previews/01-rain-steam-and-speed.jpg)
+![Turner theme on Omarchy with a terminal, btop, and Rain, Steam and Speed](preview.png)
 
-[Browse all ten wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.4 MiB in total. This page and the gallery use lightweight previews. Full-resolution originals remain available through the source links.
+[Browse all ten wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.4 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
 ## Installation
 
@@ -17,8 +17,6 @@ omarchy theme install https://github.com/simoz/omarchy-turner-theme
 To switch back, select your previous theme from Omarchy's theme menu.
 
 ## Palette
-
-![Turner palette](docs/palette.svg)
 
 | Role | Color |
 | --- | --- |
