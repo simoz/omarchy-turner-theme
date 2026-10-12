@@ -9,7 +9,7 @@
     "license": "Public domain",
     "date": "1844",
     "credit": "National Gallery, London",
-    "sha256": "a44d425cd32ccacc81278563136f06778be63a6b7a3cf5bf5d0a3a57067ea6f7",
+    "sha256": "7eb2435b2c1577c5b5a3d97f9aa2354ad84777d059db1578625d36cf3b3be3f5",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -25,21 +25,21 @@
     "title": "Snow Storm – Steam-Boat off a Harbour’s Mouth",
     "source": "https://commons.wikimedia.org/wiki/File:J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg",
     "download": "https://upload.wikimedia.org/wikipedia/commons/e/e4/J.M.W._Turner_%E2%80%93_Snow_Storm_-_Steam-Boat_off_a_Harbour%27s_Mouth.jpg",
-    "width": 5018,
-    "height": 3772,
+    "width": 3840,
+    "height": 2887,
     "license": "Public domain",
     "date": "1842",
     "credit": "Tate Britain, London; Turner Bequest, 1856",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
-    "sha256": "b5ec642db9a26a22ad70e34ce9934a817f65aa6c6a5f68467f6e38a8b78dc176",
+    "sha256": "8c26021f40ad8172b241c7dd02cd78d14797e21bf192b7cfa8b99756f710a7bb",
     "original": {
       "width": 7247,
       "height": 5448,
       "sha256": "3b216adbdffced2e17248371b3a4d8333ecf9936a1f3219bb2d227995cbb8b84"
     },
     "preview": "docs/previews/02-snow-storm.jpg",
-    "processing": "Resized to 5120 × 3849 px at JPEG quality 70, then centered border trim to 5018 × 3772 px (approximately 1% per edge); saved at JPEG quality 90. No upscaling or artistic color adjustments. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
+    "processing": "Resized to 5120 × 3849 px, then centered border trim to 5018 × 3772 px (approximately 1% per edge); downscaled to 3840 × 2887 px and saved at JPEG quality 70. No upscaling or artistic color adjustments. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   },
   {
     "file": "backgrounds/03-inverary-pier.jpg",
@@ -172,12 +172,12 @@
     "title": "The Fighting Temeraire",
     "source": "https://commons.wikimedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg",
     "download": "https://upload.wikimedia.org/wikipedia/commons/9/94/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "width": 5120,
-    "height": 3801,
+    "width": 3840,
+    "height": 2851,
     "license": "Public domain",
     "date": "1839",
     "credit": "National Gallery, London",
-    "sha256": "0c3b65a8096b3152a10a6109c756d08abc3dc3cd92d9c7e0d8a239d9b930ddf6",
+    "sha256": "b0b570072f1994661048a94f978e083889cb17328cb59c8c032817ddfebe9ee3",
     "artist": "J. M. W. Turner",
     "retrieved": "2026-09-10",
     "original": {
@@ -186,6 +186,6 @@
       "sha256": "c2d93bced825a2b6bce93701281309cc07b95eaf946780c330e48fd2e0d05ca2"
     },
     "preview": "docs/previews/09-the-fighting-temeraire.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
+    "processing": "JPEG quality 70; longest edge capped at 3840 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
   }
 ]

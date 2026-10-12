@@ -1,6 +1,6 @@
 # Nine Turner wallpapers
 
-The distributed JPEG wallpapers have a maximum long edge of 5120 pixels, with no upscaling or artistic color adjustments. JPEGs are losslessly optimized where this reduces file size; decoded pixels remain unchanged. Original aspect ratios are preserved to pixel rounding. Snow Storm has a centered trim of approximately 1% per edge to remove the dark outer border. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 30.5 MiB; the 1280-pixel previews total approximately 2.0 MiB.
+The distributed JPEG wallpapers have a maximum long edge of 5120 pixels (3840 for Snow Storm and The Fighting Temeraire, to limit file size), with no upscaling or artistic color adjustments. JPEGs are losslessly optimized where this reduces file size; decoded pixels remain unchanged. Original aspect ratios are preserved to pixel rounding. Snow Storm has a centered trim of approximately 1% per edge to remove the dark outer border. Images already below the size limit are kept unchanged when recompression would increase their file size. The wallpapers total approximately 22.4 MiB; the 1280-pixel previews total approximately 2.0 MiB.
 
 **Rain, Steam and Speed** is first in the filename sequence and is the README cover. **Snow Storm** follows second, pairing rain and steam with a sea swept by snow. The collection alternates between turbulence and stillness: the Venetian view and **Dort** offer quiet harbors, while the storms dissolve ships and horizons into light and vapor. After the opening pair, luminous harbors alternate with darker seas and moonlight, ending with **The Fighting Temeraire** at sunset. The theme palette stays fixed when switching paintings. **Staffa**, **Keelmen**, and **The Fighting Temeraire** closely match its smoky blue shadows and gold accents. **Inverary Pier** is the airiest and most luminous alternative.
 
@@ -20,7 +20,7 @@ National Gallery, London.
 
 ## 02 · Snow Storm – Steam-Boat off a Harbour’s Mouth
 
-1842 · **Wallpaper: 5018 × 3772 px** · Original: 7247 × 5448 px.
+1842 · **Wallpaper: 3840 × 2887 px** · Original: 7247 × 5448 px.
 
 Tate Britain, London; Turner Bequest, 1856.
 
@@ -90,7 +90,7 @@ Yale Center for British Art, Paul Mellon Collection.
 
 ## 09 · The Fighting Temeraire
 
-1839 · **Wallpaper: 5120 × 3801 px** · Original: 6000 × 4455 px.
+1839 · **Wallpaper: 3840 × 2851 px** · Original: 6000 × 4455 px.
 
 National Gallery, London.
 

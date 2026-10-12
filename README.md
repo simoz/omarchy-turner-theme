@@ -4,7 +4,7 @@ A dark theme inspired by J. M. W. Turner: smoky blue, golden light, ivory, and t
 
 [![Turner theme on Omarchy with an editor, terminal, btop, and file manager](docs/screenshots/hero.webp)](docs/screenshots/hero.webp)
 
-[Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 4096 to 5120 pixels wide, with original proportions and no upscaling; approximately 30.5 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
+[Browse all nine wallpapers, with resolutions and sources](docs/BACKGROUNDS.md). Wallpapers range from 3840 to 5120 pixels wide, with original proportions and no upscaling; approximately 22.4 MiB in total. The gallery uses lightweight previews. Full-resolution originals remain available through the source links.
 
 ## Inspiration
 
