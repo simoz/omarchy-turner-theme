@@ -70,7 +70,7 @@ The theme uses the Omarchy 4 format. Omarchy generates application configuration
 - [Cover artwork source and original download](https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg)
 - [National Gallery of Art Open Access policy](https://www.nga.gov/terms-and-notices)
 
-The two National Gallery of Art JPEGs are available under CC0. The other seven reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without artistic color adjustments; Snow Storm has a slight border trim. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
+The two National Gallery of Art JPEGs are available under CC0. The other seven reproductions come from Wikimedia Commons, where they are marked as public domain. The distributed wallpapers are resized and JPEG-compressed where useful, without artistic color adjustments except a levels correction for contrast on Rain, Steam and Speed and Snow Storm; Snow Storm has a slight border trim. [The gallery](docs/BACKGROUNDS.md) lists the artist, collection, and source for each painting; [the JSON catalog](docs/backgrounds.json) records original download URLs, original and distributed dimensions and SHA-256 checksums, and processing details. Painting credits are separate from the theme's original palette.
 
 ## License
 

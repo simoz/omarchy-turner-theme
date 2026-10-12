@@ -18,7 +18,7 @@
       "sha256": "b391ff3e06a23557c8afd006691236ab1d68d2a4357d9b0944bb97d2389fda85"
     },
     "preview": "docs/previews/01-rain-steam-and-speed.jpg",
-    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
+    "processing": "JPEG quality 70; longest edge capped at 5120 px; original aspect ratio; no upscaling or permanent crop. Levels adjusted for contrast. Lossless JPEG entropy optimization and metadata removal with jpegtran."
   },
   {
     "file": "backgrounds/02-snow-storm.jpg",
@@ -39,7 +39,7 @@
       "sha256": "3b216adbdffced2e17248371b3a4d8333ecf9936a1f3219bb2d227995cbb8b84"
     },
     "preview": "docs/previews/02-snow-storm.jpg",
-    "processing": "Resized to 5120 × 3849 px, then centered border trim to 5018 × 3772 px (approximately 1% per edge); downscaled to 3840 × 2887 px and saved at JPEG quality 70. No upscaling or artistic color adjustments. Lossless JPEG entropy optimization and metadata removal with jpegtran; decoded pixels verified unchanged."
+    "processing": "Resized to 5120 × 3849 px, then centered border trim to 5018 × 3772 px (approximately 1% per edge); downscaled to 3840 × 2887 px and saved at JPEG quality 70. No upscaling; levels adjusted for contrast. Lossless JPEG entropy optimization and metadata removal with jpegtran."
   },
   {
     "file": "backgrounds/03-inverary-pier.jpg",
